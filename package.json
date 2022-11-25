@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "2022": "ts-node main 2022",
     "2021": "ts-node main 2021"
   },
   "repository": {
